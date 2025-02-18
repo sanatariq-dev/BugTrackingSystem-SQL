@@ -121,5 +121,5 @@ This project is open-source and available under the MIT License.
 For any questions, reach out to me on:
 📩 Email: sanatariq001122@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/sana-tariq-44875b205/
-🌍 GitHub: Your GitHub Profile
+🌍 GitHub: https://github.com/sanatariq-dev
 
